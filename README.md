@@ -1,2 +1,4 @@
 # C-RPG
-A text-based C++ RPG that I created in 2021 for a school project. 
+
+## Try It Out Yourself!
+Just clone the github repo and run file in a suitable C++ IDE
